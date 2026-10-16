@@ -1,0 +1,7 @@
+# executaveis
+ex1/trap1
+ex1/trap2
+ex1/trap3
+ex1/trap4
+ex2/soma_*
+!ex2/*.c
